@@ -9,4 +9,4 @@ bundle exec jekyll serve
 # to view in local browser
 http://localhost:4000/
 
-That's all!
+That's all!  Small change from VSCode.
